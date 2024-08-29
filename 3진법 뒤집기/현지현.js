@@ -6,4 +6,4 @@ function solution(n) {
     var answer = parseInt(reverseStr, 3);
 
     return answer;
-}
+} 
